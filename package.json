@@ -1,0 +1,30 @@
+{
+	"name": "binary-gap",
+	"version": "1.0.0",
+	"description": "A function that calculates the binary gap",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JoseMarshall/binary-gap-js.git"
+	},
+	"keywords": [
+		"binary-gap",
+		"binary",
+		"zeros",
+		"ones"
+	],
+	"author": "JoseMarshall",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/JoseMarshall/binary-gap-js/issues"
+	},
+	"homepage": "https://github.com/JoseMarshall/binary-gap-js#readme",
+	"dependencies": {},
+	"devDependencies": {
+		"jest": "^27.3.1"
+	}
+}
